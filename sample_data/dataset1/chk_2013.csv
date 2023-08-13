@@ -1,0 +1,11 @@
+snapshotId,date,place,amount,comment
+1,2013-05-10,cash,200 USD,
+1,,cash,500,
+1,,card,2000,
+1,,account,3000,
+1,,deposit,5000,
+2,2013-06-10,cash,150 USD,
+,,cash,700,
+,,card,1500,
+,,account,7000,
+,,deposit,5000,

@@ -1,0 +1,6 @@
+- DB code cleanup:
+    - avoid table creation when running individual tests
+    - find a way to update value in db by column name
+    - try to reuse querries where possible
+        - common cleanup code
+

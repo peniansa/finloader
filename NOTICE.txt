@@ -1,0 +1,5 @@
+Finloader - ETL tool for personal finance accounting
+Copyright 2013 Paul Lysak (paul.lysak@gmail.com)
+
+Apache 2.0 license terms apply:
+http://www.apache.org/licenses/LICENSE-2.0.txt

@@ -1,0 +1,9 @@
+{
+    csv : {
+        separator: ","
+    }
+    database : {
+        driver: "org.postgresql.Driver"
+        url: "jdbc:postgresql://localhost/sample_finloader?user=dbadmin&password=dbadmin"
+    }
+}

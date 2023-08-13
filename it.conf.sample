@@ -1,0 +1,8 @@
+{
+    database : {
+        name: "it_finloader"
+        driver: "org.postgresql.Driver"
+        setupUrl: "jdbc:postgresql://localhost/postgres?user=dbadmin&password=dbadmin"
+        testUrl: "jdbc:postgresql://localhost/postgres?user=dbadmin&password=dbadmin"
+    }
+}
